@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Sonu Yadav</h1>
+<h1>Hii 👋, I'm Sonu Yadav</h1>
 
 <h3>
 AI-ML | V2X | Wireless ML
