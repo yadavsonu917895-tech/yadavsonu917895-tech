@@ -7,7 +7,7 @@ AI-ML | V2X | Wireless ML
 </h3>
 
 <p>
-  <b>MS(R) Researcher @ IIT Delhi</b> 🚗 📡
+  <b>MS(R) Researcher @ IIT Delhi</b> 
 </p>
 
 <a href="mailto:yadavsonu917895@gmail.com">
