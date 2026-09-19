@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Sonu Yadav</h1>
 
 <h3>
-V2X | Cooperative Perception | Wireless ML | 5G/6G
+AI-ML | V2X | Wireless ML
 </h3>
 
 <p>
