@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yadavsonu917895-tech/yadavsonu917895-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi 👋, I'm Sonu Yadav</h1>
 
-Here are some ideas to get you started:
+<h3>
+V2X | Cooperative Perception | Wireless ML | 5G/6G
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>MS(R) Researcher @ IIT Delhi</b> 🚗 📡
+</p>
+
+<a href="mailto:yadavsonu917895@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-yadavsonu917895%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/yadavsonu917895-tech">
+  <img src="https://img.shields.io/badge/GITHUB-yadavsonu917895--tech-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/sonu-yadav-a3a87224a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Sonu%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=yadavsonu917895-tech&style=for-the-badge&label=PROFILE+VIEWS">
+
+</div>
