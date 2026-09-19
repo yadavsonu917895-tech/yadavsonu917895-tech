@@ -6,9 +6,6 @@
 AI-ML | V2X | Wireless ML
 </h3>
 
-<p>
-  <b>MS(R) Researcher @ IIT Delhi</b> 
-</p>
 
 <a href="mailto:yadavsonu917895@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-yadavsonu917895%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
